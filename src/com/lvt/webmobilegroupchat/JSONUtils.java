@@ -1,4 +1,4 @@
-package info.androidhive.webmobilegroupchat;
+package com.lvt.webmobilegroupchat;
 
 import org.json.JSONException;
 import org.json.JSONObject;

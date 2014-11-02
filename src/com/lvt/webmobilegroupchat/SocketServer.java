@@ -1,4 +1,4 @@
-package info.androidhive.webmobilegroupchat;
+package com.lvt.webmobilegroupchat;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
